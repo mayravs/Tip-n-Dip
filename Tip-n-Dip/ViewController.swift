@@ -81,7 +81,6 @@ class ViewController: UIViewController {
         totalLabel.text = String(format: "$%.2f", total)
         perPersonLabel.text = String(format: "$%.2f", personTotal)
         personCountLabel.text = String(Int(personCountStepper.value))
-       // perPersonLabel.text = String(format: "$%.2f", total/)
     }
     
 }
