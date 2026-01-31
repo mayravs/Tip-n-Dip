@@ -6,26 +6,11 @@ Written by: **Mayra Vazquez-Sanchez** for CodePath.org application
 
 ## User Stories
 
-The following **required** functionality is complete:
-
-* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-
-The following **optional** features are implemented:
-* [x] Settings page to change the default tip percentage.
-
-The following **additional** features are implemented:
-
+- [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+- [x] Settings page to change the default tip percentage.
 - [x] App logo
 - [x] Launch screen
 - [x] Calculates how much each person would pay if the bill was to be split.
-
-## Video Walkthrough 
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://g.recordit.co/x2DzjuGzer.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
